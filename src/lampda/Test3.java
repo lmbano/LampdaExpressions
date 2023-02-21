@@ -1,4 +1,4 @@
-package demos;
+package lampda;
 
 @FunctionalInterface  //Explicitly making the class a functional intarface
 interface  Cab3 {

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c71dc237-1ddf-4752-a4e5-ca38ee10c7a9" name="Default Changelist" comment="" />
+    <list default="true" id="c71dc237-1ddf-4752-a4e5-ca38ee10c7a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lampda/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LampdaExpressions/demos/Cab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LampdaExpressions/demos/Cab2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LampdaExpressions/demos/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LampdaExpressions/demos/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lampda/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lampda/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/Test3.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,22 +20,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LampdaExpressions$Test3.ic" NAME="Test3 Coverage Results" MODIFIED="1677005743329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>demos.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demos/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/predicate/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="519">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/demos/Test2.java">
+        <entry file="file://$PROJECT_DIR$/src/predicate/demo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="96">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -38,12 +54,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Demo.java" />
         <option value="$PROJECT_DIR$/src/demos/Test.java" />
         <option value="$PROJECT_DIR$/src/demos/Test2.java" />
+        <option value="$PROJECT_DIR$/src/demos/Test3.java" />
+        <option value="$PROJECT_DIR$/src/lampda/Test3.java" />
+        <option value="$PROJECT_DIR$/src/predicate/Demo1.java" />
       </list>
     </option>
   </component>
@@ -53,6 +75,7 @@
     <option name="width" value="2260" />
     <option name="height" value="1740" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -76,7 +99,7 @@
               <item name="LampdaExpressions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LampdaExpressions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LampdaExpressions" type="b2602c69:ProjectViewProjectNode" />
@@ -91,9 +114,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1677005114014" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1677008678028" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/demos" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,13 +135,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demos.Test" />
+  <component name="RunManager" selected="Application.Demo1">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predicate.Demo1" />
       <module name="LampdaExpressions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demos.*" />
+          <option name="PATTERN" value="predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lampda.Test" />
+      <module name="LampdaExpressions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lampda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +163,24 @@
       </method>
     </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demos.Test2" />
+      <option name="MAIN_CLASS_NAME" value="lampda.Test2" />
       <module name="LampdaExpressions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demos.*" />
+          <option name="PATTERN" value="lampda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lampda.Test3" />
+      <module name="LampdaExpressions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lampda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,6 +190,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test" />
       </list>
@@ -151,43 +207,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677003650718</updated>
-      <workItem from="1677003654122" duration="1343000" />
+      <workItem from="1677003654122" duration="4803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1343000" />
+    <option name="totallyTimeSpent" value="4803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1535" y="280" width="2260" height="1740" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
       <window_info id="Designer" />
-      <window_info id="UI Designer" />
+      <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21823205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21823205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32991803" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32946795" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32946795" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329235" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39959016" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3296501" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -204,17 +260,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demos/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/lampda/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lampda/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lampda/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demos/Test2.java">
+    <entry file="file://$PROJECT_DIR$/src/predicate/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="519">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package demos;
+package lampda;
 
 @FunctionalInterface
 interface  Cab{
